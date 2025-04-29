@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(135deg, #e0f7fa 0%, #ffffff 100%);
+    background-image: url("https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    color: #333;
+    font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    backdrop-filter: blur(4px) brightness(1.05);
+}
